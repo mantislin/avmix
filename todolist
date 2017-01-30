@@ -1,0 +1,12 @@
+).example: extract .aac from .mp4 [ in $folder ]
+).example: extract ado from .mp4 [ in $folder ]
+).example: extract vdo from .flv [ in $folder ]
+).example: merge ado vdo into .mp4 [ in $folder ]
+).example: merge vdo .m4a into .flv [ in $folder ]
+).example: convert .flv to .mp4 [ in $folder ]
+).example: convert abc.flv to .mp4 [ in $folder ]
+).example: convert abc.flv to fucker.mp4 [ in $folder ]
+
+https://github.com/flagbug/FlvExtract.git
+https://github.com/gpac/gpac.git
+git://git.code.sf.net/p/sox/code
